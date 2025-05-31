@@ -52,6 +52,10 @@
 
 ###
 
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-Raj-Chourasia&no-bg=true">
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/output/snake.svg" alt="" />
