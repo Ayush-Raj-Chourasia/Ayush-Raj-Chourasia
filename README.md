@@ -263,7 +263,7 @@ Travel booking platform<br>
 ### 🧊 3D Contribution Graph (Auto-Updated)
 
 <a href="https://github.com/Ayush-Raj-Chourasia" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Ayush Raj Chourasia 3D contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/main/profile-3d-contrib/profile-night-rainbow.svg?v=20260314a" alt="Ayush Raj Chourasia 3D contribution graph" width="100%" />
 </a>
 
 </div>
