@@ -68,6 +68,20 @@ Experienced software engineer with expertise in building scalable applications a
 
 ---
 
+## 🏙️ My Git City Building
+
+<div align="center">
+
+<a href="https://thegitcity.com/dev/Ayush-Raj-Chourasia" target="_blank" rel="noopener noreferrer">
+  <img src="https://thegitcity.com/api/share-card/Ayush-Raj-Chourasia?format=landscape&lang=en" alt="Ayush Raj Chourasia Git City custom preview card" width="95%" />
+</a>
+
+<br /><br />
+
+</div>
+
+---
+
 ## 💻 Technology Stack
 
 <div align="center">
