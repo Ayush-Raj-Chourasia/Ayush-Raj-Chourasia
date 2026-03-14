@@ -259,6 +259,18 @@ Travel booking platform<br>
 ## 📊 Contribution Insights
 
 <div align="center">
+
+### 🧊 3D Contribution Graph (Auto-Updated)
+
+<a href="https://github.com/Ayush-Raj-Chourasia" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Ayush-Raj-Chourasia/Ayush-Raj-Chourasia/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Ayush Raj Chourasia 3D contribution graph" width="100%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-Raj-Chourasia&theme=tokyonight" width="100%" />
 </div>
 
